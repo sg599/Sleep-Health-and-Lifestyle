@@ -16,8 +16,8 @@ To run the analysis, you need:
 
 *Usage*
 
-- Run sleep_analysis.ipynb to perform data cleaning, visualization, and statistical analysis.
-- View Sleep_Health_Report.pdf for detailed findings in APA format.
+- Use `Sleep_health_and_lifestyle_dataset.csv` as the data set to perform data cleaning, visualization, and statistical analysis.
+- View `Sleep_Health_Report.pdf` for detailed findings in APA format.
 
 *Key Findings*
 
@@ -29,10 +29,10 @@ To run the analysis, you need:
 
 *File Structure*
 
-- Sleep_health_and_lifestyle_dataset.csv => The dataset used
-- Stress_Health.ipynb => Python notebook for the analysis
-- Stress_Health_Report.pdf => Full research report (APA style)
-- README.md => Project documentation
+- `Sleep_health_and_lifestyle_dataset.csv` => The dataset used
+- `Stress_Health.ipynb` => Python notebook for the analysis
+- `Stress_Health_Report.pdf` => Full research report (APA style)
+- `README.md` => Project documentation
 
 *License*
 
