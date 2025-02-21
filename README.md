@@ -29,4 +29,11 @@ To run the analysis, you need:
 
 *File Structure*
 
-- 
+- Sleep_health_and_lifestyle_dataset.csv => The dataset used
+- Stress_Health.ipynb => Python notebook for the analysis
+- Stress_Health_Report.pdf => Full research report (APA style)
+- README.md => Project documentation
+
+*License*
+
+This project is open-source under the MIT License.
