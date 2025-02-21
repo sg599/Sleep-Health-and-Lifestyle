@@ -16,7 +16,7 @@ To run the analysis, you need:
 
 *Usage*
 
-- Use `Sleep_health_and_lifestyle_dataset.csv` as the data set to perform data cleaning, visualization, and statistical analysis.
+- Use `Sleep_health_and_lifestyle_dataset.csv` as the dataset to perform data cleaning, visualization, and statistical analysis.
 - View `Sleep_Health_Report.pdf` for detailed findings in APA format.
 
 *Key Findings*
